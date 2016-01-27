@@ -22,7 +22,7 @@ Each line item forms the basis for the next
 - Peer review merge request using comments
 - Develop code to close `issues` and achieve `milestone`
   - Reference issue in commit message to auto-close issue
-  - See [COMMIT.md][] for commit guidelines
+  - See [COMMIT](COMMIT.md) for commit guidelines
 - Demonstrate `milestone` release to seek feedback. This goes into updating all the initial drafts during *inception*. May also result in new features to be added as `issues`
 - Repeat for next milestone until fit for transition
 
